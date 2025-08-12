@@ -42,7 +42,7 @@ Evolve from prey to predator. Hunt formidable creatures to harvest their unique 
 ---
 <br>
 
-# 惊奇大地2：后院等你探索
+# 禁闭求生2：后院等你探索
 
 ![004-13](https://github.com/user-attachments/assets/21eab121-fa88-4d0d-8120-de5a59fddac3)
 
